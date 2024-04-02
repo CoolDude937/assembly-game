@@ -14,6 +14,7 @@ How to run:
    - Display Width in Pixels: 256
    - Display Height in Pixels: 256
    - Base address for display: 0x10008000($gp)
+<br>
 ![image](https://github.com/CoolDude937/assembly-game/assets/88058599/72f8c156-089c-4253-a125-7451cbc5e98a)
 5) click the "assemble" button at the top of MARS, the one that looks like a wrench and screwdriver crossing
 6) click the green play button
