@@ -8,8 +8,8 @@ How to run:
 2) open my game file
 3) go to the tools bar in MARS, open the "keyboard and display MMIO simulator"  and the "bitmap display"
 4) adjust the bitmap display to these settings:
-   -Unit Width in Pixels: 4
-   -Unit Height in Pixels: 4
+   - Unit Width in Pixels: 4
+   - Unit Height in Pixels: 4
    - Display Width in Pixels: 256
    - Display Height in Pixels: 256
    - Base address for display: 0x10008000($gp)
