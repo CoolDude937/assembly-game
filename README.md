@@ -1,8 +1,8 @@
-Yes, Assembly is kind of difficult to make games with, comparatively with the other options.
-Yes, my course made me do it anyway for marks.
-Yes, it sucks as a video game.
-But I still had fun making it.
-
+Yes, Assembly is kind of difficult to make games with, comparatively with the other options.\n
+Yes, my course made me do it anyway for marks.\n
+Yes, it sucks as a video game.\n
+But I still had fun making it.\n
+![image](https://github.com/CoolDude937/assembly-game/assets/88058599/cd6718bb-409f-480c-97d0-cb17d0a89b44)
 How to run:
 1) download MARS MIPS Simulator from google
 2) open my game file
